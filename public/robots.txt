@@ -1,0 +1,3 @@
+User-Agent: *
+Allow: /
+Sitemap: https://qa-images-vendorstan.s3-us-west-2.amazonaws.com/test/sitemap.xml
